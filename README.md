@@ -18,7 +18,7 @@ It uses LangChain + Ollama for the language model and ChromaDB for vector search
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/pizza-qa-bot.git
+git clone https://github.com/wafadalilahabet-jpg/pizza-qa-bot.git
 cd pizza-qa-bot
 ```
 
@@ -111,3 +111,4 @@ Title,Review,Rating,Date
 - Replace `realistic_restaurant_reviews.csv` with your own dataset of reviews.
 - Change the model names in `vector_db.py` and `main.py` to use different embedding or language models.
 - Adjust the retriever parameters in `vector_db.py` to return more or fewer relevant reviews.
+
